@@ -7,3 +7,6 @@ three = "3"
 aibi = "1987-10-04"
 hanazawa_kana = "1989-02-25"
 sawashiro_miyuki = "1985-06-02"
+
+[boards]
+a = "Anime & Manga"
