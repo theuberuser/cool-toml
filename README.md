@@ -1,4 +1,4 @@
-cool-toml
+c0ol-toml
 =========
 
 A test repository to test git basics. 
