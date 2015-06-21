@@ -1,4 +1,4 @@
-c0o1-toml
+c0o1-tom1
 =========
 
 A test repository to test git basics. 
