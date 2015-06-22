@@ -1,6 +1,7 @@
 # This ruby script demonstrates the use of for-loops
 # Source: Learn Ruby the Hard Way
 # URL: https://github.com/infinityb/cool-toml/pull/12
+# Author: Zedd Shaw
 
 the_count = [1, 2, 3, 4, 5]
 fruits = ['apples', 'oranges', 'pears', 'apricots']
